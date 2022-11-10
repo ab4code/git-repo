@@ -72,5 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <!-- Feeling so bad about this app am building trying to make it better but there's no time anymore so I had to host and submit it and then keep updating the app as to make it perfect please mercy and give us some time more sir -->
 
-https://luminous-moonbeam-a3ca52.netlify.app/# git-repo
+https://my-repositories.netlify.app/ git-repo
 # git-repo
